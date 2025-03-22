@@ -37,6 +37,11 @@
     height="200"
     src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExZmNuOHE4ejR5NDQ4eTJxYzM0OGdzZXM0cWo3NXNtdzFpdDdmNXpubyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/h22mfPY17lVed1BUG5/giphy.gif"
   />
+       <img
+    alt="body"
+    height="200"
+    src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExZmNuOHE4ejR5NDQ4eTJxYzM0OGdzZXM0cWo3NXNtdzFpdDdmNXpubyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/h22mfPY17lVed1BUG5/giphy.gif](https://media.giphy.com/media/s5VfC7dqTu5D5MhfUh/giphy.gif?cid=790b7611ywprp690sb7fey7bhrf44h9aos6q9f76vf5o1yui&ep=v1_gifs_search&rid=giphy.gif&ct=g"
+  />
   <img
   alt="right-leg"
   height="200"
