@@ -40,7 +40,7 @@
        <img
     alt="body"
     height="200"
-    src="https://media.giphy.com/media/s5VfC7dqTu5D5MhfUh/giphy.gif?cid=790b7611ywprp690sb7fey7bhrf44h9aos6q9f76vf5o1yui&ep=v1_gifs_search&rid=giphy.gif&ct=g"
+    src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExMmwxazVmYjNxcWJtZGVoNXA5YWlzcmpqMzFqYzA1b2FuejViODlvZyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/NAoKEARghUz9V77QXS/giphy.gif"
   />
   <img
   alt="right-leg"
