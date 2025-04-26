@@ -35,7 +35,7 @@
     <img
     alt="left-leg"
     height="200"
-    src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExZmNuOHE4ejR5NDQ4eTJxYzM0OGdzZXM0cWo3NXNtdzFpdDdmNXpubyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/h22mfPY17lVed1BUG5/giphy.gif"
+    src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExd3J6bGtiamxmdGZrZGN5cDY2Z3g3d2NzOHEwejc0ZDVxeWJobXNsayZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/TLOl2tSYNSZM0KnpcE/giphy.gif"
   />
     <a href="https://www.facebook.com/tdm2005">
        <img
