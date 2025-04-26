@@ -46,7 +46,7 @@
         </a>
   <img
   alt="right-bottom"
-  height="200"
+  height="200" width="355"
   src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExNDJjc3d0bDE5N2FoNHh3cjAxeDlrdW9pcDkyZXludGRjZ3Qwbzd2YSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/orUBsDjlD2rzsz6pPK/giphy.gif"
 />
 </div>
