@@ -16,7 +16,7 @@
     alt="left-top" 
     style="margin-top: 20px;"
     height="200"
-    src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExcGttZDV0ZmgwcHRzc3c5dXU2czdxbHVoeTNtdjFmM3ZvMmoyajVwNyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/3MTQxYZeiDm12/giphy.gif"
+    src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExcnlzeXAyNWhod2cybDRvZHEyaGdlemo1d254eTMyZzdramkyNGQxaiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/7eUfR3hhYgfdFC3sw1/giphy.gif"
   />
   <img
     height="200"
