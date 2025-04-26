@@ -40,7 +40,7 @@
     <a href="https://www.facebook.com/tdm2005">
        <img
     alt="bottom-center"
-    height="200" width="370"
+    height="200" width="355"
     src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExMWkxajNkancydG1uN3A4N3R4YWExOGZ0ZjhpZjltZzUwbXNkMGI3eiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/ZOGCyj0NW28gg/giphy.gif"
   />
         </a>
